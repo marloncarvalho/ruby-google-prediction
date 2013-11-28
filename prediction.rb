@@ -86,4 +86,4 @@ prediction = Prediction.new
 prediction.configure
 # prediction.train
 # prediction.check
-prediction.predict('Nordestino é um câncer!')
+prediction.predict('Nordestino é tudo gente boa!')
